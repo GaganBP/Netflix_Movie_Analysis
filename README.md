@@ -11,7 +11,7 @@ This project analyzes a dataset of Netflix movies to uncover insights about movi
 - **Develop actionable insights:** Provide recommendations based on data patterns.
 
 ## 📂 Dataset Information
-The dataset contains 9,827 movies with the following features:
+The dataset contains The movies details with the following features:
 
 | Feature       | Description                                                     |
 | ------------- | --------------------------------------------------------------- |
